@@ -542,4 +542,7 @@ Power BI
 Business Insights
 ```
 
+
+![Shopping Data Analytics Dashboard](Customer_Shopping_Behavior_Dashboard.png)
+
 If you found this project useful, consider giving the repository a ⭐ on GitHub.
